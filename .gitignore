@@ -1,0 +1,8 @@
+# Compiled class file
+*.class
+
+build/
+.idea/
+
+resources
+out/*
